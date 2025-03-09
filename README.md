@@ -1,1 +1,1 @@
-# HAL-Stock-Analysis-Machine-Learning-Project
+# Stock-Analysis-Machine-Learning-Project
